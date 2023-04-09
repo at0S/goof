@@ -44,7 +44,7 @@
     "snyk": "^1.689.0",
     "st": "1.2.2",
     "stream-buffers": "^3.0.1",
-    "typeorm": "^0.2.25",
+    "typeorm": "^0.3.14",
     "validator": "^13.6.0"
   },
   "devDependencies": {
